@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sedtha07
+- 👋 Hi, I’m @Sedtha77
 - 👀 I’m interested in Data Science, A.I.and Robotic 
 - 🌱 I’m currently learning Software Engineering at Swinburne University of Technology 
 - 💞️ I’m looking to collaborate on software/application real life problem related.
