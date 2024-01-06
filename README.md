@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sedtha77
-- 🌱 I’m a graduate Software Engineer and I’m interested in Software Engineering, Data Science, A.I.and Robotic 
+- 👋 Hi, I’m Sedtha, I’m a graduate Software Engineer and I’m interested in Software Engineering, Data Science, A.I.and Robotic 
 - 💞️ I’m looking to collaborate on software/application real life problem related.
 - 📫 How to reach me limsedtha@gmail.com
 
